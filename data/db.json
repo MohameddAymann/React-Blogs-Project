@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, ab fugiat, facilis ullam rerum nihil esse quibusdam ad in corrupti blanditiis vero est sed maiores animi facere voluptatibus placeat magnam laudantium distinctio neque quos quae! Cupiditate odio quod inventore beatae fugit hic, minus amet cumque sequi ipsum. Praesentium, tempore ipsum facilis voluptatum ducimus totam animi quis neque temporibus sit? Iure, atque culpa. Magni, sequi distinctio. Architecto, fuga obcaecati assumenda ullam eligendi porro velit asperiores hic impedit, illum placeat mollitia libero? Sed dignissimos architecto fugit nobis. Aut repellat possimus officia doloremque, dignissimos nihil labore corrupti aspernatur tempore nostrum nesciunt quod eaque!",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "opening party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, ab fugiat, facilis ullam rerum nihil esse quibusdam ad in corrupti blanditiis vero est sed maiores animi facere voluptatibus placeat magnam laudantium distinctio neque quos quae! Cupiditate odio quod inventore beatae fugit hic, minus amet cumque sequi ipsum. Praesentium, tempore ipsum facilis voluptatum ducimus totam animi quis neque temporibus sit? Iure, atque culpa. Magni, sequi distinctio. Architecto, fuga obcaecati assumenda ullam eligendi porro velit asperiores hic impedit, illum placeat mollitia libero? Sed dignissimos architecto fugit nobis. Aut repellat possimus officia doloremque, dignissimos nihil labore corrupti aspernatur tempore nostrum nesciunt quod eaque!",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
